@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yafeshanunal&label=Profile%20views&color=0e75b6&style=flat" alt="yafeshanunal" /> </p>
 
-- 🔭 I’m currently working on **PXL**
+- 🔭 I’m currently working Full Stack Developer on **PXL**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Mobile development**
 
 - 📫 How to reach me **yafeshanunal@gmail.com**
 
