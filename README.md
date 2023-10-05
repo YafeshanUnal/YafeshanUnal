@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yafeshan</h1>
 
-// - 🔭 I’m currently working Full Stack Developer on **PXL**
+<!-- - 🔭 I’m currently working Full Stack Developer on **PXL** -->
 
 - 🌱 I’m currently learning **Mobile development**
 
