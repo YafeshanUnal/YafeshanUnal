@@ -2,7 +2,6 @@
 
 <!-- - 🔭 I’m currently working Full Stack Developer on **PXL** -->
 
-- 🌱 I’m currently learning **Mobile development**
 
 - 📫 How to reach me **yafeshanunal@gmail.com**
 
